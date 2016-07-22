@@ -1,0 +1,1 @@
+[27-Jan-2016 20:32:21 America/New_York] PHP Fatal error:  Call to a member function query() on a non-object in /home/hgcrespo/public_html/siseepv/libs/crearusuario.php on line 31
